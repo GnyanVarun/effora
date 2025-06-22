@@ -145,7 +145,7 @@ Update profile, toggle dark mode, upload avatar, and view app version & licensin
 
 Licensed under the Apache License 2.0.
 
-## Author
+## 🙌 Author
 
 Built by Varun Vailala <br>
 "Empower your hustle, own your success."
